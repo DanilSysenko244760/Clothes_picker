@@ -82,7 +82,7 @@ python main.py
 - `anthropic/claude-3.5-sonnet` (recommended, balanced)
 - `anthropic/claude-3-opus` (highest quality, more expensive)
 - `anthropic/claude-3-haiku` (fastest, cheapest)
-- 'you can choose your own on openrouter`
+- You can choose your own on openrouter
   
 ## API Costs
 
