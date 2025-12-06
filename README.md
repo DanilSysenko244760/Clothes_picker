@@ -3,12 +3,12 @@ An intelligent Telegram bot that helps you find coordinated fashion outfits usin
 
 ## Features
 
-- 🤖 **AI-Powered Coordination**: Uses Claude 3.5 Sonnet to analyze and coordinate outfits
-- 🔍 **Smart Search**: Integrates with Google Shopping via SerpAPI
-- 👔 **Style Matching**: Automatically matches items by style, color, and price range
-- 💰 **Budget Control**: Respects your budget constraints
-- 🏷️ **Brand Support**: Understands specific brands and styles (Acne Studios, Balenciaga, etc.)
-- 🎨 **Complete Outfits**: Creates full coordinated looks with multiple items
+-  **AI-Powered Coordination**: Uses Claude 3.5 Sonnet to analyze and coordinate outfits
+-  **Smart Search**: Integrates with Google Shopping via SerpAPI
+-  **Style Matching**: Automatically matches items by style, color, and price range
+-  **Budget Control**: Respects your budget constraints
+-  **Brand Support**: Understands specific brands and styles (Acne Studios, Balenciaga, etc.)
+-  **Complete Outfits**: Creates full coordinated looks with multiple items
 
 ## How It Works
 
