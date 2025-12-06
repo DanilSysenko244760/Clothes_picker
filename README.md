@@ -19,8 +19,11 @@ An intelligent Telegram bot that helps you find coordinated fashion outfits usin
 
 ## Example Queries
 "outfit with acne studios hoodie and opium style sneakers under $1000"
+
 "find balenciaga look"
+
 "streetwear outfit with t-shirt"
+
 "gothic black sneakers"
 
 ## Setup
